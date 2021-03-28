@@ -14,4 +14,4 @@ function output(depth, climbUp, climbDown) {
 
   return days;
 }
-console.log(output(31, 7, 2));
+console.log(output(39, 7, 2));
